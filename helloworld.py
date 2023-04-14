@@ -1,1 +1,2 @@
-print("Hello world")
+txt = "Hello World"[::-1]
+print(txt)
